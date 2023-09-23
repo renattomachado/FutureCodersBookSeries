@@ -10,8 +10,8 @@ Sinta-se à vontade para compartilhar com seu pequeno e executar os códigos jun
 
 
 ## C# para crianças (pt-BR)
-![C# para crianças - Cover]([pt-BR/C# para criancas/images/Capa.png](https://github.com/renattomachado/FutureCodersBookSeries/blob/fed2e112307ff4cd9e9805f3ceb92d8f7259ad71/pt-BR/C%23%20para%20criancas/images/Capa.png))
 
+![C# para crianças - Cover](https://github.com/renattomachado/FutureCodersBookSeries/blob/fed2e112307ff4cd9e9805f3ceb92d8f7259ad71/pt-BR/C%23%20para%20criancas/images/Capa.png)
 
 - [Cover - Program.cs](https://dotnetfiddle.net/fA2tzz);
 - [Variables.cs](https://dotnetfiddle.net/3WnRPI);
@@ -21,6 +21,8 @@ Sinta-se à vontade para compartilhar com seu pequeno e executar os códigos jun
 
 
 ## JavaScript para crianças
+
+![C# para crianças - Cover](https://github.com/renattomachado/FutureCodersBookSeries/blob/f2800a34ff78a1d8f600064ef63ad7c7a2fd9c0a/pt-BR/JavaScript%20para%20criancas/images/JavaScript-Capa.jpg)
 
 - [cover - main.js](https://jsfiddle.net/RenattoMachado/zq0fmhpr/2);
 - [variables.js](https://jsfiddle.net/RenattoMachado/12wxs9nr/2);
