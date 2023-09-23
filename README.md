@@ -8,7 +8,10 @@ No livro o leitor verá códigos escritos nas página que são apenas uma demons
 Para os mais apaixonados por escovar bits, abaixo está a lista de códigos de cada livro em sua linguagem e de forma executável.
 Sinta-se à vontade para compartilhar com seu pequeno e executar os códigos junto com ele.
 
+
 ## C# para crianças (pt-BR)
+![C# para crianças - Cover]([pt-BR/C# para criancas/images/Capa.png](https://github.com/renattomachado/FutureCodersBookSeries/blob/fed2e112307ff4cd9e9805f3ceb92d8f7259ad71/pt-BR/C%23%20para%20criancas/images/Capa.png))
+
 
 - [Cover - Program.cs](https://dotnetfiddle.net/fA2tzz);
 - [Variables.cs](https://dotnetfiddle.net/3WnRPI);
