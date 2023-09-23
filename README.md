@@ -1,6 +1,14 @@
 # FutureCodersBookSeries
 
-## C# for kids
+A coleção de livros Futuros Programadores tem o objetivo de promover um momento de leitura e diversão entre pais programadores (as) e seus filhos.
+Como pessoas apaixonadas pela tecnologia, é natural que tenhamos o desejo de que nossos filhos aprendam a pensar de forma lógica, a resolver problemas complexos e a dar vida a ideias que um dia residiram na cabeça de algumas pessoas.
+Este foi o objetivo de eu ter escrito esta coleção de livros.
+Todos os livros da coleção têm o mesmo enredo, a mesma história, apenas o contexto da linguagem e do framework utilizado é alterado.
+No livro o leitor verá códigos escritos nas página que são apenas uma demonstração simplificada e em alguns deles por conta de espaçamento na diagramação do livro e/ou uma boa configuração de leitura, sacrificamos elemetos que tornam o código "executável" em prol do design do livro.
+Para os mais apaixonados por escovar bits, abaixo está a lista de códigos de cada livro em sua linguagem e de forma executável.
+Sinta-se à vontade para compartilhar com seu pequeno e executar os códigos junto com ele.
+
+## C# para crianças (pt-BR)
 
 - [Cover - Program.cs](https://dotnetfiddle.net/fA2tzz);
 - [Variables.cs](https://dotnetfiddle.net/3WnRPI);
@@ -9,7 +17,7 @@
 - [Functions.cs](https://dotnetfiddle.net/fjClRn);
 
 
-## JavaScript for kids
+## JavaScript para crianças
 
 - [cover - main.js](https://jsfiddle.net/RenattoMachado/zq0fmhpr/2);
 - [variables.js](https://jsfiddle.net/RenattoMachado/12wxs9nr/2);
