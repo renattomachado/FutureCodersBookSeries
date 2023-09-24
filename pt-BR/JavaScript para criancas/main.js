@@ -1,14 +1,16 @@
 class BookForKids {
-    constructor() {
-        this.title = "JavaScript para crianças";
-        this.writtenBy = "Renatto Machado";
-        this.collection = "Futuros Programadores";
+    constructor(title = "JavaScript para crianças",
+        writtenBy = "Renatto Machado",
+        collection = "Futuros Programadores") {
+        this.title = title;
+        this.writtenBy = writtenBy;
+        this.collection = collection;
     }
 
     displayInfo() {
-        console.log(this.title);
-        console.log(this.writtenBy);
-        console.log(this.collection);
+        console.log(`Título: ${this.title}`);
+        console.log(`Escrito por: ${this.author}`);
+        console.log(`Coleção: ${this.collection}`);
     }
 }
 
