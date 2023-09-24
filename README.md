@@ -30,7 +30,7 @@ Sinta-se à vontade para compartilhar com seu pequeno e executar os códigos jun
 
 ![C# para crianças - Cover](https://github.com/renattomachado/FutureCodersBookSeries/blob/18475f0ed83ec7f559c9acd89ce296a2087389c3/pt-BR/JavaScript%20para%20criancas/images/JavaScript-Capa.png)
 
-- [cover - main.js](https://jsfiddle.net/RenattoMachado/zq0fmhpr/2);
+- [cover - main.js](https://jsfiddle.net/RenattoMachado/zq0fmhpr/7);
 - [variables.js](https://jsfiddle.net/RenattoMachado/12wxs9nr/2);
 - [operators.JS](https://jsfiddle.net/RenattoMachado/f1pt8kL7/);
 - [controlStructures.js](https://jsfiddle.net/RenattoMachado/0tdpquo1/);

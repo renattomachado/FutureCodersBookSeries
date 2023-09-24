@@ -9,7 +9,7 @@ class BookForKids {
 
     displayInfo() {
         console.log(`Título: ${this.title}`);
-        console.log(`Escrito por: ${this.author}`);
+        console.log(`Escrito por: ${this.writtenBy}`);
         console.log(`Coleção: ${this.collection}`);
     }
 }
