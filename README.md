@@ -11,7 +11,7 @@ Sinta-se à vontade para compartilhar com seu pequeno e executar os códigos jun
 
 ## Table of Contents 
 1. **pt-BR**
-   - 1.1. [C# para crianças (pt-BR)](#Csharpparacrianas)
+   - 1.1. [C# para crianças](#Csharpparacrianas)
    - 1.2. [JavaScript para crianças](#JavaScriptparacrianas)
 
 
