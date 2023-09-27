@@ -11,7 +11,7 @@ Sinta-se à vontade para compartilhar com seu pequeno e executar os códigos jun
 ## Table of Contents 
 | Livro                                              | Idioma | Loja          |
 |----------------------------------------------------|--------|---------------|
-| [C# para crianças](#Csharpparacrianas)             | pt-BR  | [![amazon.com.br](https://github.com/renattomachado/FutureCodersBookSeries/assets/6045241/e529dcb5-4b60-42e8-bb3a-26fa55b3c857)](https://amzn.to/3ZNOVG1) |
+| [C# para crianças](#Csharpparacrianas)             | pt-BR  | [![amazon.com.br](available-amazon.png)](https://amzn.to/3ZNOVG1) |
 | [JavaScript para crianças](#JavaScriptparacrianas) | pt-BR  | Em breve      |
 
 
