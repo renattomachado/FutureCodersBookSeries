@@ -1,4 +1,3 @@
-
 # Future Coders Book Series
 
 A coleção de livros Futuros Programadores tem o objetivo de promover um momento de leitura e diversão entre pais programadores (as) e seus filhos.
@@ -10,14 +9,18 @@ Para os mais apaixonados por escovar bits, abaixo está a lista de códigos de c
 Sinta-se à vontade para compartilhar com seu pequeno e executar os códigos junto com ele.
 
 ## Table of Contents 
-1. **pt-BR**
-   - 1.1. [C# para crianças](#Csharpparacrianas)
-   - 1.2. [JavaScript para crianças](#JavaScriptparacrianas)
+| Livro                                              | Idioma | Loja          |
+|----------------------------------------------------|--------|---------------|
+| [C# para crianças](#Csharpparacrianas)             | pt-BR  | [![amazon.com.br](https://github.com/renattomachado/FutureCodersBookSeries/assets/6045241/e529dcb5-4b60-42e8-bb3a-26fa55b3c857)](https://amzn.to/3ZNOVG1) |
+| [JavaScript para crianças](#JavaScriptparacrianas) | pt-BR  | Em breve      |
+
+
 
 
 ##  1. <a name='Csharpparacrianas'></a>C# para crianças
 
 ![C# para crianças - Cover](https://github.com/renattomachado/FutureCodersBookSeries/blob/fed2e112307ff4cd9e9805f3ceb92d8f7259ad71/pt-BR/C%23%20para%20criancas/images/Capa.png)
+
 
 - [Cover - Program.cs](https://dotnetfiddle.net/fA2tzz);
 - [Variables.cs](https://dotnetfiddle.net/3WnRPI);
