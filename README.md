@@ -12,7 +12,7 @@ Sinta-se à vontade para compartilhar com seu pequeno e executar os códigos jun
 | Livro                                              | Idioma | Loja          |
 |----------------------------------------------------|--------|---------------|
 | [C# para crianças](#Csharpparacrianas)             | pt-BR  | [![amazon.com.br](available-amazon.png)](https://amzn.to/3ZNOVG1) |
-| [JavaScript para crianças](#JavaScriptparacrianas) | pt-BR  | Em breve      |
+| [JavaScript para crianças](#JavaScriptparacrianas) | pt-BR  | [![amazon.com.br](available-amazon.png)](https://amzn.to/3F6wTFp)      |
 
 
 
